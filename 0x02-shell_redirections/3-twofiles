@@ -1,0 +1,2 @@
+3-twofiles
+cat /etc/passwd /etc/hosts
