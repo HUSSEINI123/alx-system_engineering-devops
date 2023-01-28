@@ -23,6 +23,7 @@ int main(void)
 {
 	pid_t zombiePID;
 	unsigned int i;
+
 	for (i = 0; i < 5; i++)
 	{
 		zombiePID = fork();
